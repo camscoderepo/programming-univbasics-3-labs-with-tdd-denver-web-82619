@@ -14,3 +14,4 @@ if first_number > second_number
   quotient = first_number / second_number
 else
   quotient = second_number / first_number
+end
