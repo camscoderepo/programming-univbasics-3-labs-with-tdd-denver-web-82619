@@ -3,11 +3,7 @@ second_number = 5
 
 sum = first_number + second_number
 
-if first_number > second_number
-  difference = first_number - second_number
-else
-  difference = second_number - first_number
-end
+
 product = first_number * second_number
 
 if first_number > second_number
